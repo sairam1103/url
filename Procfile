@@ -1,1 +1,1 @@
-web: python3 -m tgfilestream
+Boob: python3 -m tgfilestream/__main__.py
