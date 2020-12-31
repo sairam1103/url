@@ -1,1 +1,1 @@
-Boob: python3 -m tgfilestream/__main__.py
+Boob: python3 -m tgfilestream
